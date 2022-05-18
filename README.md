@@ -1,7 +1,7 @@
 # 💫About Me :
 I'm Danial Hamedi , 18 y.o,  biomedical engineering student at QIAU, junior computer vision specialist at MRL U.A.V lab 
 and currently collaborating with QUMS on white blood cells detection using a normal camera.
-interested in discrete math, cryptography.
+interested in discrete math and cryptography.
 
 
 
