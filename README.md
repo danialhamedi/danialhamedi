@@ -4,9 +4,9 @@ and currently collaborating with QUMS on white blood cells detection and recogni
 interested in discrete math and cryptography.
 
 
-## 💁🏻‍♂️My Blog
+## 💁🏻‍♂️My Blogs
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://danial.hashnode.dev)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://https://medium.com/@danialhamedi)
 
 ## 🌐Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamedi.taher.bonab@gmail.com)
