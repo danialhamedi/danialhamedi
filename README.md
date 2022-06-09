@@ -20,7 +20,7 @@ interested in discrete math and cryptography.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bussiness.hamedi@gmail.com)
 
 # 📃Medium :
-[![Danial Hamedi Medium](https://github-readme-medium.vercel.app/?username=danialhamedi&limit=3)](https://medium.com/@danialhamedi)
+[![Danial Hamedi Medium](https://github-readme-medium.vercel.app/?username=danialhamedi&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@danialhamedi)
 
 # 🐦Twitter :
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=this_is_danial)](https://twitter.com/This_is_Danial?t=JgJtRGMzoAECcgnUDe4RBg&s=09)
