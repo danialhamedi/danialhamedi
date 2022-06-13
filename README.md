@@ -15,12 +15,13 @@ interested in discrete math and cryptography.
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Inevitable-Eye1550)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/This_is_Danial?t=JgJtRGMzoAECcgnUDe4RBg&s=09)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/dansoos)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](tiktok.com/@danialhamedi)
 ## 💸For Business Inquiries
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hamedi_danial)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bussiness.hamedi@gmail.com)
 
 # 📃Medium :
-[![Danial Hamedi Medium](https://github-readme-medium.vercel.app/?username=danialhamedi&limit=2)](https://medium.com/@danialhamedi)
+[![Danial Hamedi Medium](https://github-readme-medium.vercel.app/?username=danialhamedi)](https://medium.com/@danialhamedi)
 
 # 🐦Twitter :
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=this_is_danial)](https://twitter.com/This_is_Danial?t=JgJtRGMzoAECcgnUDe4RBg&s=09)
