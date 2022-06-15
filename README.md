@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm Danial Hamedi , 18 y.o,  biomedical engineering student at QIAU, Drone programmer, junior computer vision specialist at MRL U.A.V lab 
+I'm Danial Hamedi , 20 y.o,  biomedical engineering student at QIAU, Drone programmer, junior computer vision specialist at MRL U.A.V lab 
 and currently collaborating with QUMS on white blood cells detection and recognition using a normal camera.
 interested in discrete math and cryptography.
 
